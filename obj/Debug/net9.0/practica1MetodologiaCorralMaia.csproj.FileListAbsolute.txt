@@ -1,0 +1,14 @@
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.AssemblyInfoInputs.cache
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.AssemblyInfo.cs
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.csproj.CoreCompileInputs.cache
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\bin\Debug\net9.0\practica1MetodologiaCorralMaia.exe
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\bin\Debug\net9.0\practica1MetodologiaCorralMaia.deps.json
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\bin\Debug\net9.0\practica1MetodologiaCorralMaia.runtimeconfig.json
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\bin\Debug\net9.0\practica1MetodologiaCorralMaia.dll
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\bin\Debug\net9.0\practica1MetodologiaCorralMaia.pdb
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.dll
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\refint\practica1MetodologiaCorralMaia.dll
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.pdb
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\practica1MetodologiaCorralMaia.genruntimeconfig.cache
+C:\Users\maia2\OneDrive\Escritorio\practica1MetodologiaCorralMaia\obj\Debug\net9.0\ref\practica1MetodologiaCorralMaia.dll
